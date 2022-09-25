@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>PPT_Multimedia authoring tools_unfinished</title>
-    <url>/2022/09/26/PPT01/</url>
-    <content><![CDATA[<p>以下是ppt的pdf<br><a href="Mat.pdf">Mat_unfinished</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>This is a test document</title>
     <url>/2022/08/08/title/</url>
     <content><![CDATA[<p><a href="ccc.jpg">测试图片</a><br><a href="ddd.pdf">测试下载</a><br><a href="example.html">测试网页</a><br><img src="/2022/08/08/title/ccc.jpg"> <img src="/2022/08/08/title/ccc.jpg" class title></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>一些links和基本操作</title>
+    <url>/2022/09/26/link/</url>
+    <content><![CDATA[<p>密码：<br>iwishyouhappy</p>
+<p>游戏<br><a href="https://www.jianguoyun.com/p/DUYE2EQQma32CRjgktIEIAA">https://www.jianguoyun.com/p/DUYE2EQQma32CRjgktIEIAA</a></p>
+<p>GU2<br><a href="https://www.jianguoyun.com/p/DZ4zFFUQma32CRi9-dEEIAA#/needpassword">https://www.jianguoyun.com/p/DZ4zFFUQma32CRi9-dEEIAA#/needpassword</a></p>
+<p>HTML：<br><a href="https://www.jianguoyun.com/p/DQIp4AwQma32CRj2rNIEIAA#">https://www.jianguoyun.com/p/DQIp4AwQma32CRj2rNIEIAA#</a></p>
+<p>禁用键盘：<br>sc config i8042prt start&#x3D; disabled<br>恢复：<br>sc config i8042prt start&#x3D; auto</p>
+<p>VS存档：<br>C:\Users\ASUS\source\repos</p>
+<p>前端学习：<br><a href="https://developer.mozilla.org/zh-CN/">https://developer.mozilla.org/zh-CN/</a></p>
+<p>还原:<br>dotnet new console</p>
+<p>图片:<br><a href="https://unsplash.com/">https://unsplash.com/</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>PPT_Multimedia authoring tools_unfinished</title>
+    <url>/2022/09/26/PPT01/</url>
+    <content><![CDATA[<p>以下是ppt的pdf<br><a href="Mat.pdf">Mat_unfinished</a></p>
 ]]></content>
   </entry>
 </search>
