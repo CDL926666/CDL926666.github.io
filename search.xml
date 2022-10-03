@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>PPT_Multimedia authoring tools_unfinished</title>
-    <url>/2022/09/26/PPT01/</url>
-    <content><![CDATA[<p>以下是ppt的pdf</p>
-<h1 id="Mat-unfinished"><a href="#Mat-unfinished" class="headerlink" title="Mat_unfinished"></a><a href="Mat.pdf">Mat_unfinished</a></h1>]]></content>
+    <title>一些links和基本操作</title>
+    <url>/2022/09/26/link/</url>
+    <content><![CDATA[<h1 id="禁用键盘-x2F-恢复："><a href="#禁用键盘-x2F-恢复：" class="headerlink" title="禁用键盘&#x2F;恢复："></a>禁用键盘&#x2F;恢复：</h1><p><code>sc config i8042prt start= disabled</code><br><code>sc config i8042prt start= auto</code></p>
+<h1 id="还原"><a href="#还原" class="headerlink" title="还原:"></a>还原:</h1><p><code>dotnet new console</code></p>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片:"></a>图片:</h1><p><code>https://unsplash.com/</code></p>
+]]></content>
       <tags>
-        <tag>交互式脚本语言</tag>
+        <tag>操作</tag>
       </tags>
   </entry>
   <entry>
@@ -18,19 +20,12 @@
       </tags>
   </entry>
   <entry>
-    <title>一些links和基本操作</title>
-    <url>/2022/09/26/link/</url>
-    <content><![CDATA[<h1 id="密码："><a href="#密码：" class="headerlink" title="密码："></a>密码：</h1><p><code>iwishyouhappy</code></p>
-<h1 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h1><p><code>https://www.jianguoyun.com/p/DUYE2EQQma32CRjgktIEIAA</code></p>
-<h1 id="GU2"><a href="#GU2" class="headerlink" title="GU2"></a>GU2</h1><p><code>https://www.jianguoyun.com/p/DZ4zFFUQma32CRi9-dEEIAA#/needpassword</code></p>
-<h1 id="HTML："><a href="#HTML：" class="headerlink" title="HTML："></a>HTML：</h1><p><code>https://www.jianguoyun.com/p/DQIp4AwQma32CRj2rNIEIAA#</code></p>
-<h1 id="禁用键盘-x2F-恢复："><a href="#禁用键盘-x2F-恢复：" class="headerlink" title="禁用键盘&#x2F;恢复："></a>禁用键盘&#x2F;恢复：</h1><p><code>sc config i8042prt start= disabled</code><br><code>sc config i8042prt start= auto</code></p>
-<h1 id="前端学习："><a href="#前端学习：" class="headerlink" title="前端学习："></a>前端学习：</h1><p><code>https://developer.mozilla.org/zh-CN/</code></p>
-<h1 id="还原"><a href="#还原" class="headerlink" title="还原:"></a>还原:</h1><p><code>dotnet new console</code></p>
-<h1 id="图片"><a href="#图片" class="headerlink" title="图片:"></a>图片:</h1><p><code>https://unsplash.com/</code></p>
-]]></content>
+    <title>PPT_Multimedia authoring tools_unfinished</title>
+    <url>/2022/09/26/PPT01/</url>
+    <content><![CDATA[<p>以下是ppt的pdf</p>
+<h1 id="Mat-unfinished"><a href="#Mat-unfinished" class="headerlink" title="Mat_unfinished"></a><a href="Mat.pdf">Mat_unfinished</a></h1>]]></content>
       <tags>
-        <tag>操作</tag>
+        <tag>交互式脚本语言</tag>
       </tags>
   </entry>
   <entry>
